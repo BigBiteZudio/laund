@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636086190369",
+    "project_id": "laund-ac4a6",
+    "storage_bucket": "laund-ac4a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636086190369:android:2184162884cceff766fe60",
+        "android_client_info": {
+          "package_name": "com.example.laund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636086190369-lbdkmonbgq2tf15g1ac1n1ilbk2oipgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laund",
+            "certificate_hash": "20149055f94bc731201766401807c92fce2df02f"
+          }
+        },
+        {
+          "client_id": "636086190369-c7cnq0tblmfapqqf8kdrdj6u7rvr8l7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sFjx_ddqe3D-o0igcRrJeQ5piTGw5RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636086190369-c7cnq0tblmfapqqf8kdrdj6u7rvr8l7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
